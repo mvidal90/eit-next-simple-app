@@ -1,0 +1,8 @@
+
+.link {
+    @apply hover:underline hover:text-pink-100 mx-2 transition-all;
+}
+
+.active-link {
+    @apply text-pink-500 underline;
+}
